@@ -1,0 +1,5 @@
+project: ArcWelderLib
+target: ArcWelder
+
+cmds:
+  - cmd: /ArcWelder @@
